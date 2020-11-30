@@ -1,0 +1,13 @@
+ColorMachine IO
+
+Input
+1 - Color Sensor (Color)
+
+2 - Color Sensor (Length)
+
+Output
+A - Motor (Storage Unit)
+
+B - Motor (Feed Belt)
+
+D - Motor (Feed Bar)
